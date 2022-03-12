@@ -2,7 +2,7 @@
  
 Thanks for stopping by. I'm a junior frontend developer that is passionate about UI design that helps people. I am looking for a position where I can grow with a team of cool people helping others.
 
-:seedling: I'm currently learning Vue and really liking it.
+:seedling: I'm currently learning Vue and really liking it. My latest app [live app](https://window-counter.netlify.app/) [code](https://github.com/Ongomobile/vue-window-counter-app)
 
 📫 mike@yourdevguy.com
 
