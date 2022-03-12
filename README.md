@@ -24,7 +24,7 @@ Thanks for stopping by. I'm a frontend developer that is passionate about UI des
  
  
  
-#### Profile Visits 
+
 
 ![](https://komarev.com/ghpvc/?username=ongomobile)
 
