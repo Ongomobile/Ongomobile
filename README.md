@@ -1,6 +1,6 @@
 ### Hi there I'm Mike <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
  
-Thanks for stopping by. I'm a frontend developer that is passionate about UI design that helps people. I am looking for a position where I can learn and grow with a team of cool people helping others.
+Thanks for stopping by. I'm a frontend developer that is passionate about UI design that helps people. I am looking for a position where I can learn and grow with a team of cool people that help others.
 
 :seedling: I'm currently learning Vue and really liking it. My latest vue app [live app](https://window-counter.netlify.app/) see the [code](https://github.com/Ongomobile/vue-window-counter-app)
 
