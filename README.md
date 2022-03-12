@@ -1,9 +1,13 @@
-### Hi there Im Mike <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there I'm Mike <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
  
+Thanks for stopping by. I'm a junior frontend developer looking for a position where I can grow with a team of cool people helping others.
 
----
-Thanks for stopping by
+📫 mike@yourdevguy.com
 
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ongomobile.ongomobile)
 <!--
 **Ongomobile/Ongomobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
