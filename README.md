@@ -4,7 +4,20 @@ Thanks for stopping by. I'm a junior frontend developer that is passionate about
 
 📫 mike@yourdevguy.com
 
+<details>
+ <summary>
+  More stuff about me
+ </summary>
+ 
+ How can my skills as a self-taught developer help you?
 
+• Being self taught, I know how to solve my own problems, and when to ask for help. I also know how to listen and take feedback. I try my best to ask better questions as I refine my search queries.
+
+• I love to design and code and learning new skills in this area is my favorite thing to do. I can be stubborn when I want to figure things out so I don’t give up easily. Pixel perfection is my obsession.
+
+• Helping people is important to me, so finding the root causes of problems is very important to me. Before starting any designs, I need to understand the challenges and goals to be better able to design a plan with empathy.
+ </details>
+ 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ongomobile.Ongomobile)
