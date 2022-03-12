@@ -8,8 +8,6 @@ Thanks for stopping by. I'm a junior frontend developer that is passionate about
  <summary>
   More stuff about me
  </summary>
- 
- How can my skills as a self-taught developer help you?
 
 • Being self taught, I know how to solve my own problems, and when to ask for help. I also know how to listen and take feedback. I try my best to ask better questions as I refine my search queries.
 
