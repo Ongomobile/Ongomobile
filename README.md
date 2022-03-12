@@ -22,7 +22,7 @@ Thanks for stopping by. I'm a junior frontend developer that is passionate about
  
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ongomobile.Ongomobile)
+
 
 <!--
 **Ongomobile/Ongomobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
