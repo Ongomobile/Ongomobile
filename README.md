@@ -2,9 +2,11 @@
  
 Thanks for stopping by. I'm a junior frontend developer that is passionate about UI design that helps people. I am looking for a position where I can grow with a team of cool people helping others.
 
-:seedling: Currently learning Vue
+:seedling: I'm currently learning Vue and really liking it.
 
 📫 mike@yourdevguy.com
+
+(https://www.linkedin.com/in/ongo-mobile/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
 
 <details>
  <summary>
