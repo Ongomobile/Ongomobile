@@ -2,6 +2,8 @@
  
 Thanks for stopping by. I'm a junior frontend developer that is passionate about UI design that helps people. I am looking for a position where I can grow with a team of cool people helping others.
 
+:seedling: Currently learning Vue
+
 📫 mike@yourdevguy.com
 
 <details>
