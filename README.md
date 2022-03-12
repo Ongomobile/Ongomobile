@@ -6,7 +6,7 @@ Thanks for stopping by. I'm a junior frontend developer that is passionate about
 
 📫 mike@yourdevguy.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mike Haslam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongo-mobile/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mike.Haslam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongo-mobile/) 
 
 <details>
  <summary>
