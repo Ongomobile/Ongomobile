@@ -26,7 +26,7 @@ Thanks for stopping by. I'm a frontend developer that is passionate about UI des
  
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ongomobile.Ongomobile)
+
 
 
 <!--
