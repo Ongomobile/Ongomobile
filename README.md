@@ -2,7 +2,7 @@
  
 Thanks for stopping by. I'm a frontend developer that is passionate about UI design that helps people. I am looking for a position where I can learn and grow with a team of cool people that help others.
 
-:seedling: I'm currently learning Vue and really liking it. My latest vue apps [Window Counter Live App](https://window-counter.netlify.app/)  view [code]  (https://github.com/Ongomobile/vue-window-counter-app) 
+:seedling: I'm currently learning Vue and really liking it. My latest vue apps [Window Counter Live App](https://window-counter.netlify.app/)  view [code](https://github.com/Ongomobile/vue-window-counter-app) 
   [Thailand Explorer Live App](https://www.thailandexplorer.org)  view [code](https://github.com/Ongomobile/thailand-exp-vue)
 
 
