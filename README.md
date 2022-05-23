@@ -2,10 +2,6 @@
  
 Thanks for stopping by. I'm a frontend developer that is passionate about UI design that helps people. I am looking for a position where I can learn and grow with a team of cool people that help others.
 
-:seedling: I'm currently learning Vue and really liking it. My latest vue apps: <br> [Window Counter Live App](https://window-counter.netlify.app/)  view [code](https://github.com/Ongomobile/vue-window-counter-app) <br>
-[Thailand Explorer Live App](https://www.thailandexplorer.org)  view [code](https://github.com/Ongomobile/thailand-exp-vue)
-
-
 📫 mike@yourdevguy.com
 
 :paperclip: [My Resume](https://github.com/Ongomobile/resume/blob/main/Mike-Haslam-resume.pdf)
