@@ -2,7 +2,7 @@
  
 Thanks for stopping by. I'm a frontend developer that is passionate about UI design that helps people. I am looking for a position where I can learn and grow with a team of cool people that help others.
 
-📫 mike@yourdevguy.com
+📫 mike@yourshopifyguy.com
 
 :paperclip: [My Resume](https://github.com/Ongomobile/resume/blob/main/MikeHaslam.pdf)
 
