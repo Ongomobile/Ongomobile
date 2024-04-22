@@ -4,7 +4,7 @@ Thanks for stopping by. I'm a frontend developer that is passionate about UI des
 
 📫 mike@yourshopifyguy.com
 
-:paperclip: [My Resume](https://github.com/Ongomobile/resume/blob/main/Mike-Haslam-resume.pdf)
+:paperclip: [My Resume](https://github.com/Ongomobile/resume/blob/main/mike_haslam_resume.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mike.Haslam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-shopify-guy/) [![Twitter Badge](https://img.shields.io/badge/-@yourshopifyguy-0e76a8?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourshopifyguy)](https://twitter.com/yourshopifyguy) 
 
