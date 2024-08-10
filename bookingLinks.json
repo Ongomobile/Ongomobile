@@ -216,6 +216,12 @@
     "URL": "https://www.booking.com/city/th/ang-thong.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
+    "Cities": "Ang Thong National Marine Park",
+    "#hotels": 138,
+    "City UFI": -3249877,
+    "URL": "https://www.booking.com/city/th/ko-samui.en.html?aid=7929769&no_rooms=1&group_adults=2"
+  },
+  {
     "Cities": "Ao Luk",
     "#hotels": 9,
     "City UFI": -3232502,
@@ -18390,6 +18396,12 @@
     "URL": "https://www.booking.com/city/th/doi-angkang.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
+    "Cities": "Doi Inthanon National Park",
+    "#hotels": 2745,
+    "City UFI": -3247115,
+    "URL": "https://www.booking.com/city/th/chiang-mai.en.html?aid=7929769&no_rooms=1&group_adults=2"
+  },
+  {
     "Cities": "Doi Saket",
     "#hotels": 18,
     "City UFI": -3247606,
@@ -18786,7 +18798,7 @@
     "URL": "https://www.booking.com/city/th/ban-khao-lak.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Khao Sok",
+    "Cities": "Khao Sok National Park",
     "#hotels": 73,
     "City UFI": -3407817,
     "URL": "https://www.booking.com/city/th/khao-sok.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -18798,7 +18810,7 @@
     "URL": "https://www.booking.com/city/th/ban-khao-tao.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Khao Yai",
+    "Cities": "Khao Yai National Park",
     "#hotels": 0,
     "City UFI": 900061176,
     "URL": "https://www.booking.com/city/th/khao-yai.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -19068,7 +19080,7 @@
     "URL": "https://www.booking.com/city/th/ko-mai-thon.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Ko Mak",
+    "Cities": "Koh Mak",
     "#hotels": 57,
     "City UFI": 900048216,
     "URL": "https://www.booking.com/city/th/ko-mak.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -19170,7 +19182,7 @@
     "URL": "https://www.booking.com/city/th/ko-saket.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Ko Samed",
+    "Cities": "Ko Samet",
     "#hotels": 134,
     "City UFI": 900040426,
     "URL": "https://www.booking.com/city/th/koh-samed.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -19224,19 +19236,13 @@
     "URL": "https://www.booking.com/city/th/koh-lone.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Koh Samui",
-    "#hotels": 0,
-    "City UFI": -3254698,
-    "URL": "https://www.booking.com/city/th/koh-samui.en.html?aid=7929769&no_rooms=1&group_adults=2"
-  },
-  {
-    "Cities": "Koh Samui",
+    "Cities": "Ko Samui",
     "#hotels": 138,
     "City UFI": -3249877,
     "URL": "https://www.booking.com/city/th/ko-samui.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Koh Tao",
+    "Cities": "Ko Tao",
     "#hotels": 288,
     "City UFI": -3401990,
     "URL": "https://www.booking.com/city/th/ban-ko-tao.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -19440,7 +19446,7 @@
     "URL": "https://www.booking.com/city/th/long.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Lop Buri",
+    "Cities": "Lopburi",
     "#hotels": 28,
     "City UFI": -3250664,
     "URL": "https://www.booking.com/city/th/lop-buri.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -20118,6 +20124,12 @@
     "URL": "https://www.booking.com/city/th/phanom-panom-prai-den-maranka.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
+    "Cities": "Phanom Rung Historical Park",
+    "#hotels": 108,
+    "City UFI": -3246713,
+    "URL": "https://www.booking.com/city/th/buriram.en.html?aid=7929769&no_rooms=1&group_adults=2"
+  },
+  {
     "Cities": "Phanom Sarakham",
     "#hotels": 2,
     "City UFI": -3252785,
@@ -20178,7 +20190,7 @@
     "URL": "https://www.booking.com/city/th/phetchaburi.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Phi Phi Island",
+    "Cities": "Ko Phi Phi",
     "#hotels": 150,
     "City UFI": 900040301,
     "URL": "https://www.booking.com/city/th/phi-phi-don.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -20286,6 +20298,12 @@
     "URL": "https://www.booking.com/city/th/phu-khieo.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
+    "Cities": "Phu Kradueng National Park",
+    "#hotels": 48,
+    "City UFI": -3250603,
+    "URL": "https://www.booking.com/city/th/loei.en.html?aid=7929769&no_rooms=1&group_adults=2"
+  },
+  {
     "Cities": "Phu Rua",
     "#hotels": 10,
     "City UFI": -3253413,
@@ -20298,7 +20316,7 @@
     "URL": "https://www.booking.com/city/th/phu-wiang.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Phuket Town",
+    "Cities": "Phuket",
     "#hotels": 563,
     "City UFI": -3253342,
     "URL": "https://www.booking.com/city/th/phuket.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -20418,7 +20436,7 @@
     "URL": "https://www.booking.com/city/th/ban-puk-tian.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Railay Beach",
+    "Cities": "Rai Leh",
     "#hotels": 19,
     "City UFI": 900040168,
     "URL": "https://www.booking.com/city/th/railay-beach.en.html?aid=7929769&no_rooms=1&group_adults=2"
@@ -20742,7 +20760,7 @@
     "URL": "https://www.booking.com/city/th/si-racha.en.html?aid=7929769&no_rooms=1&group_adults=2"
   },
   {
-    "Cities": "Si Sa Ket",
+    "Cities": "Si SaKet",
     "#hotels": 18,
     "City UFI": -3255183,
     "URL": "https://www.booking.com/city/th/si-sa-ket.en.html?aid=7929769&no_rooms=1&group_adults=2"
